@@ -1,6 +1,6 @@
 # Repositório de Trabalhos de Faculdade
 
-Este repositório tem como objetivo armazenar e organizar os trabalhos acadêmicos realizados durante o curso de [Seu Curso]. Aqui, serão guardados os arquivos relacionados aos diversos projetos, tarefas e atividades desenvolvidas ao longo do curso, bem como as explicações e soluções aplicadas a cada um deles.
+Este repositório tem como objetivo armazenar e organizar os trabalhos acadêmicos realizados durante o curso de Cibersegurança. Aqui, serão guardados os arquivos relacionados aos diversos projetos, tarefas e atividades desenvolvidas ao longo do curso, bem como as explicações e soluções aplicadas a cada um deles.
 
 ## Estrutura do Repositório
 
